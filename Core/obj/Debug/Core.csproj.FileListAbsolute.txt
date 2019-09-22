@@ -1,0 +1,7 @@
+C:\Users\ravid\source\repos\job\Core\Core\bin\Debug\Core.exe.config
+C:\Users\ravid\source\repos\job\Core\Core\bin\Debug\Core.exe
+C:\Users\ravid\source\repos\job\Core\Core\bin\Debug\Core.pdb
+C:\Users\ravid\source\repos\job\Core\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\ravid\source\repos\job\Core\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\ravid\source\repos\job\Core\Core\obj\Debug\Core.exe
+C:\Users\ravid\source\repos\job\Core\Core\obj\Debug\Core.pdb
